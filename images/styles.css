@@ -1,0 +1,49 @@
+body {
+	
+	font-size : 30px;
+	
+}
+.chartwale { background-color: gold; color: black; border-width: 5px; border-color: red; border-style: outset; margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.date { background-color: gold; color:  black; border-width: 5px; border-color: red; border-style: outset; margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.date a { color:  black; }
+.HEADER { background-color: black; color: white; border-width: 5px; border-color: gold; border-style: double; margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.HEADER a { color: red; }
+.HEADLINES { background-color:  #9900FF; color:  WHITE; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.HEADLINES a { color:  black; }
+.kalyanresult { background-color:  LightSkyBlue; color:  black; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.kalyanresult a { color:  black; }
+.KHALI { background-color: black; color:  gold; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.KHALI a { color:  purple; }
+.mainresult { background-color:  LawnGreen; color:  black; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.NOTICE { background-color: black; color: GOLD; border-width: 5px; border-color: red; border-style: dotted; margin-top: 10px; margin-bottom: 10px; margin-left: 10px; margin-right: 10px; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.NOTICE a { color: black; }
+.TOP { background-color: RED; color:  WHITE; border-width: 2px; border-color: BLUE; border-style: solid; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.online { background-color: black; color:  #FF0080; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.DisplayResult {
+   
+   font-size:19pt;
+   
+}
+.boxes_titles {
+   
+   
+   text-align:center;
+   color: #000000; 
+   font-weight:bold;
+
+}
+.boxes_dash {
+   
+  
+   text-align:center;
+   color: #000000; 
+   font-weight:bold;
+}
+.boxes_text_win_numbers {
+   
+   
+   text-align:center;
+   color: #000000;
+   font-weight:800;
+font-size:25pt;
+}@media screen and (min-width: 500px) /* Desktop */ {table{text-align:center;border-collapse:separate;}th{font-size:28px;padding:5px 3px}td{font-size:16px;padding:5px 3px}}@media screen  and (max-width: 500px) /* Tablet */ {table{max-width:100%;min-width:60%;text-align:center;border-collapse:separate;}th{font-size:15px;padding:4px 1px}td{font-size:9px;padding:4px 1px}}@media screen  and (max-width: 320px) /* mobile */ {table{max-width:100%;min-width:60%;text-align:center;border-collapse:separate;}th{border:1px solid #DDD;font-size:8px;padding:3px 1px}td{font-size:3;padding:3px 1px}}

@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html amp lang="en-in"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script async src="https://cdn.ampproject.org/v0.js"></script>
+<script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+<title>Teen Patti Jodi Chart | Fastest Jodi Matka Record</title>
+<meta name="description" content="We provide the latest Online Jodi Matka results for Teen Patti Jodi games, Live updates, and more. Get our Teen Patti Jodi Chart record for the best results." />
+<link rel="canonical" href="https://dpboss.boston/jodi-chart-record/teen-patti.php" />
+<?php include_once('jodi_style_amp.php'); ?>
+</head>
+<body>  
+<?php include_once('../name_amp.php'); ?>
+ 
+<div class="container-fluid">
+<div>
+	<div class="panel panel-info" >
+					<div class="panel-heading text-center" style="background: #3f51b5;"><h1 style="font-size: 22px;color:#fff; text-shadow: 0px 0px;">Teen Patti Chart </h1></div>
+                <div class="panel-body">
+                	<table style="width: 100%; text-align:center;" class="panel-chart chart-table"  cellpadding="2">
+                	<thead>
+                	<tr>
+										<th>Mo</th>
+										<th>Tue</th>
+										<th>Wed</th>
+										<th>Thu</th>
+										<th>Fri</th>
+										<th>Sat</th>
+										<th>Sun</th>
+                	</tr>
+                	</thead>                	
+                	<tbody>
+     <tr>
+        <td class="chart-51">51</td>
+        <td class="chart-88">88</td>
+        <td class="chart-56">56</td>
+        <td class="chart-84">84</td>
+        <td class="chart-09">09</td>
+        <td class="chart-25">25</td>
+        <td class="chart-74">74</td>
+     </tr>
+     <tr>
+        <td class="chart-52">52</td>
+        <td class="chart-24">24</td>
+        <td class="chart-04">04</td>
+        <td class="chart-93">93</td>
+        <td class="chart-87">87</td>
+        <td class="chart-65">65</td>
+        <td class="chart-23">23</td>
+     </tr>
+     <tr>
+        <td class="chart-38">38</td>
+        <td class="chart-59">59</td>
+        <td class="chart-64">64</td>
+        <td class="chart-05">05</td>
+        <td class="chart-39">39</td>
+        <td class="chart-78">78</td>
+        <td class="chart-98">98</td>
+     </tr>
+     <tr>
+        <td class="chart-52">52</td>
+        <td class="chart-86">86</td>
+        <td class="chart-97">97</td>
+        <td class="chart-03">03</td>
+        <td class="chart-40">40</td>
+        <td class="chart-91">91</td>
+        <td class="chart-62">62</td>
+     </tr>
+     <tr>
+        <td class="chart-59">59</td>
+        <td class="chart-10">10</td>
+        <td class="chart-85">85</td>
+        <td class="chart-03">03</td>
+        <td class="chart-39">39</td>
+        <td class="chart-42">42</td>
+        <td class="chart-50">50</td>
+     </tr>
+     <tr>
+        <td class="chart-78">78</td>
+        <td class="chart-27">27</td>
+        <td class="chart-69">69</td>
+        <td class="chart-49">49</td>
+        <td class="chart-85">85</td>
+        <td class="chart-23">23</td>
+        <td class="chart-34">34</td>
+     </tr>
+     <tr>
+        <td class="chart-20">20</td>
+        <td class="chart-30">30</td>
+        <td class="chart-97">97</td>
+        <td class="chart-78">78</td>
+        <td class="chart-52">52</td>
+        <td class="chart-90">90</td>
+        <td class="chart-50">50</td>
+     </tr>
+     <tr>
+        <td class="chart-31">31</td>
+        <td class="chart-70">70</td>
+        <td class="chart-11">11</td>
+        <td class="chart-67">67</td>
+        <td class="chart-95">95</td>
+        <td class="chart-21">21</td>
+        <td class="chart-81">81</td>
+     </tr>
+     <tr>
+        <td class="chart-41">41</td>
+        <td class="chart-59">59</td>
+        <td class="chart-28">28</td>
+        <td class="chart-06">06</td>
+        <td class="chart-26">26</td>
+        <td class="chart-34">34</td>
+        <td class="chart-47">47</td>
+     </tr>
+     <tr>
+        <td class="chart-79">79</td>
+        <td class="chart-**">**</td>
+        <td class="chart-58">58</td>
+        <td class="chart-69">69</td>
+        <td class="chart-38">38</td>
+        <td class="chart-79">79</td>
+        <td class="chart-45">45</td>
+     </tr>
+     <tr>
+        <td class="chart-35">35</td>
+        <td class="chart-09">09</td>
+        <td class="chart-84">84</td>
+        <td class="chart-63">63</td>
+        <td class="chart-52">52</td>
+        <td class="chart-32">32</td>
+        <td class="chart-03">03</td>
+     </tr>
+     <tr>
+        <td class="chart-57">57</td>
+        <td class="chart-61">61</td>
+        <td class="chart-20">20</td>
+        <td class="chart-10">10</td>
+        <td class="chart-82">82</td>
+        <td class="chart-23">23</td>
+        <td class="chart-41">41</td>
+     </tr>
+     <tr>
+        <td class="chart-04">04</td>
+        <td class="chart-65">65</td>
+        <td class="chart-73">73</td>
+        <td class="chart-46">46</td>
+        <td class="chart-93">93</td>
+        <td class="chart-81">81</td>
+        <td class="chart-99">99</td>
+     </tr>
+     <tr>
+        <td class="chart-23">23</td>
+        <td class="chart-01">01</td>
+        <td class="chart-98">98</td>
+        <td class="chart-37">37</td>
+        <td class="chart-54">54</td>
+        <td class="chart-73">73</td>
+        <td class="chart-76">76</td>
+     </tr>
+     <tr>
+        <td class="chart-89">89</td>
+        <td class="chart-68">68</td>
+        <td class="chart-20">20</td>
+        <td class="chart-95">95</td>
+        <td class="chart-13">13</td>
+        <td class="chart-43">43</td>
+        <td class="chart-04">04</td>
+     </tr>
+     <tr>
+        <td class="chart-94">94</td>
+        <td class="chart-79">79</td>
+        <td class="chart-33">33</td>
+        <td class="chart-08">08</td>
+        <td class="chart-15">15</td>
+        <td class="chart-82">82</td>
+        <td class="chart-20">20</td>
+     </tr>
+     <tr>
+        <td class="chart-48">48</td>
+        <td class="chart-62">62</td>
+        <td class="chart-13">13</td>
+        <td class="chart-36">36</td>
+        <td class="chart-27">27</td>
+        <td class="chart-03">03</td>
+        <td class="chart-58">58</td>
+     </tr>
+     <tr>
+        <td class="chart-74">74</td>
+        <td class="chart-92">92</td>
+        <td class="chart-25">25</td>
+        <td class="chart-69">69</td>
+        <td class="chart-47">47</td>
+        <td class="chart-38">38</td>
+        <td class="chart-49">49</td>
+     </tr>
+     <tr>
+        <td class="chart-52">52</td>
+        <td class="chart-72">72</td>
+        <td class="chart-46">46</td>
+        <td class="chart-06">06</td>
+        <td class="chart-13">13</td>
+        <td class="chart-29">29</td>
+        <td class="chart-72">61</td>
+     </tr>
+    <tr><td class=''>57</td><td class='r'>00</td><td class=''>74</td><td class=''>41</td><td class=''>90</td><td class=''>91</td><td class=''>04</td></tr><tr><td class=''>21</td><td class=''>56</td><td class=''>39</td><td class=''>13</td><td class=''>80</td><td class=''>71</td><td class=''>30</td></tr><tr><td class='r'>77</td><td class='r'>50</td><td class=''>48</td><td class=''>07</td><td class=''>15</td><td class=''>60</td><td class=''>13</td></tr><tr><td class=''>81</td><td class=''>25</td><td class=''>39</td><td class=''>60</td><td class=''>15</td><td class=''>01</td><td class=''>97</td></tr><tr><td class=''>32</td><td class=''>53</td><td class=''>64</td><td class='r'>11</td><td class=''>97</td><td class=''>12</td><td class=''>58</td></tr><tr><td class=''>02</td><td class=''>70</td><td class=''>98</td><td class=''>37</td><td class='r'>33</td><td class=''>59</td><td class=''>60</td></tr><tr><td class=''>43</td><td class='r'>99</td><td class=''>14</td><td class=''>58</td><td class=''>62</td><td class=''>23</td><td class=''>81</td></tr><tr><td class=''>32</td><td class='r'>55</td><td class=''>20</td><td class=''>43</td><td class='r'>11</td><td class=''>31</td><td class=''>70</td></tr><tr><td class=''>95</td><td class=''>02</td><td class=''>17</td><td class='r'>55</td><td class=''>04</td><td class=''>71</td><td class=''>48</td></tr><tr><td class=''>76</td><td class=''>84</td><td class=''>78</td><td class=''>21</td><td class=''>42</td><td class=''>18</td><td class=''>01</td></tr><tr><td class=''>96</td><td class=''>20</td><td class=''>64</td><td class=''>15</td><td class=''>39</td><td class=''>07</td><td class=''>20</td></tr><tr><td class=''>18</td><td class='r'>77</td><td class='r'>55</td><td class=''>85</td><td class=''>46</td><td class=''>08</td><td class=''>24</td></tr><tr><td class=''>97</td><td class=''>07</td><td class=''>65</td><td class=''>31</td><td class=''>79</td><td class=''>53</td><td class=''>37</td></tr><tr><td class=''>19</td><td class=''>57</td><td class=''>93</td><td class='r'>00</td><td class=''>25</td><td class=''>98</td><td class=''>86</td></tr><tr><td class=''>90</td><td class='r'>77</td><td class='r'>22</td><td class=''>86</td><td class=''>32</td><td class=''>08</td><td class='r'>50</td></tr><tr><td class=''>78</td><td class=''>74</td><td class='r'>22</td><td class=''>40</td><td class=''>15</td><td class=''>35</td><td class=''>68</td></tr><tr><td class=''>90</td><td class='r'>55</td><td class=''>12</td><td class=''>74</td><td class=''>04</td><td class=''>86</td><td class='r'>38</td></tr>					
+						<tr><td class=''>81</td><td class=''>42</td><td class=''>13</td><td class=''>42</td><td class=''>37</td><td class=''>03</td><td class=''>18</td></tr><tr><td class=''>39</td><td class=''>74</td><td class=''>74</td><td class='r'>38</td><td class=''>12</td><td class=''>15</td><td class='r'>**</td></tr><tr><td class='r'>49</td><td class=''>34</td><td class=''>24</td><td class=''>81</td><td class=''>93</td><td class='r'>33</td><td class=''>63</td></tr><tr><td class=''>76</td><td class=''>06</td><td class=''>65</td><td class=''>31</td><td class=''>95</td><td class=''>03</td><td class=''>68</td></tr><tr><td class='r'>88</td><td class='r'>11</td><td class=''>28</td><td class=''>07</td><td class='r'>61</td><td class=''>26</td><td class=''>73</td></tr><tr><td class=''>87</td><td class=''>23</td><td class=''>29</td><td class=''>04</td><td class='r'>50</td><td class=''>82</td><td class=''>13</td></tr><tr><td class='r'>94</td><td class=''>60</td><td class=''>06</td><td class=''>52</td><td class='r'>22</td><td class=''>35</td><td class=''>90</td></tr><tr><td class=''>31</td><td class=''>46</td><td class=''>98</td><td class='r'>16</td><td class=''>81</td><td class=''>85</td><td class=''>30</td></tr><tr><td class=''>41</td><td class=''>78</td><td class=''>68</td><td class=''>20</td><td class=''>81</td><td class=''>29</td><td class=''>13</td></tr><tr><td class=''>40</td><td class='r'>77</td><td class=''>59</td><td class=''>06</td><td class=''>02</td><td class='r'>38</td><td class=''>24</td></tr><tr><td class=''>15</td><td class=''>81</td><td class=''>26</td><td class=''>89</td><td class=''>60</td><td class='r'>94</td><td class=''>03</td></tr>
+									</tbody>
+										<?php 
+include '../config.php';
+$gh = mysqli_query($con,"SELECT * FROM panel where gameName = 'TEEN PATTI' ORDER BY id ");
+include 'jodi-chart_amp.php';
+?>
+                	</table>
+                </div>
+            </div>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+	<div class="container-fluid footer-text-div">
+<p>DPBoss Services is known for its best user Interface as well as its website design. It is a well-designed and user-friendly Satta Matka website that often indicates professionalism and a commitment to providing a good user experience. Whether you are playing Teen Patti or any other type of Satta Matka game on DPBoss Services, you can rest assured that you can get the best as well as the most enjoyable gaming experience. If you would like to avoid websites that appear unprofessional, have a lot of pop-up ads, or seem disorganized, then you need to choose this betting platform for playing your Teen Patti.</p>
+<br>
+<div class="small-heading">Trusted Teen Patti Jodi Chart Records</div>
+<p>Professionals choose DPBoss Services to play Teen Patti as well as other Satta Matka games online is its transparency. It means that the betting website is transparent about its operations, rules, and results. DPBoss Services is a legitimate as well as user-centric Satta Matka website. It is always committed to providing its members with clear information about how the Teen Patti game works and the rules involved in playing it. Whatever type of Satta Matka game you play on this betting platform, you can play it safely and confidently.</p>
+<br>
+<div class="faq-heading">Frequently Asked Questions (FAQs):</div>
+<p class="faq-title">Q1. Can I play Teen Patti on DPBoss Services hassle-free?</p>
+<p class="faq-ans">DPBoss Services is known for iys user-friendly gaming interface, allowing players to load their game quickly and navigate it effortlessly.</p>
+<p class="faq-title">Q2. Does DPBoss Services have automatic advertisements?</p>
+<p class="faq-ans">No, you cannot find pop-up ads on this Satta Matka website. You can play your Satta Matka games online without all sorts of clutters and disturbances. </p>
+</div><br><br>
+
+<div class="para3">
+<p style="margin: 0;font-size: 12px;line-height: 14px;"> 
+Hello everyone, let me welcome you to our platform Dpboss.Services and today we are going to shed light on the Supreme Morning Jodi Chart. This is from the Supreme Market and for the games that are played in the morning session. So in the morning, you know, the day starts and there are lots of chanting and thrilling all the way where the games are played.
+<br>
+<br>
+Our platform helps players like you to play all the games through our website and enjoy the experience of the thrilling Satta Matka games. So, here are the results from the morning session of the Supreme Market it is represented in the form of the Jodi. So, most of the players choose Jodi for their bets and sometimes they win, and sometimes they lose. 
+<br>
+<br>
+But either the results, either they lose or win, the results are here in front of you. So, if you are a player or Satta Matka, and you have played a game in this market, you can come to this page and you can check out your result at the bottom of the table. 
+<br>
+<br>
+You can see if your Jodi has won or has lost. You can quickly find out. The default writing is for the losing numbers and those numbers which are highlighted with a different color are the ones who have won. If you are seeing on your screen, some numbers are highlighted with a unique colour. So these are the winning Jodis. 
+<br>
+<br>
+Whoever plays their bet on these Jodis now has earned big money and others who are written normally have lost. So you need to understand that. Now you can use this data to see what is the market situation right now, which numbers are winning constantly and what numbers are losing. 
+<br>
+<br>
+If you gather this information and make your strategy accordingly, so I hope you will win or you will improve your winning chances and your prediction skills and guessing techniques will be improved for sure.</p>
+</div>
+
+        <?php include_once('../shortcut_amp.php'); ?>
+</body>
+</html>

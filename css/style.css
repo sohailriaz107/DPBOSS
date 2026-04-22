@@ -1,0 +1,495 @@
+/*!
+ * Start Bootstrap - 4 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 0px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: #FFCC99;
+    color: #000;
+    font-size: 14px;
+    font-weight: bold;
+}
+.row, .container-fluid { padding:0; margin:0; }
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+
+.green_bg_color {
+   background-image: -webkit-linear-gradient(0deg, #7e8080 20%, #b1bcbe 40%, #506465 100%);
+    color: #fff;
+}
+.panel-info>.panel-heading {    background-color: none;}
+.alert-success {
+    background-color: #121312;
+  }
+
+.alert-info2 {
+    color: #31708f;
+    padding: 0px;
+    border-bottom: 2px solid #615c5c;
+}
+
+.ss{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #968512;
+}
+.card1 {
+     /*box-shadow: 10px 10px 5px grey; */
+    border: 0;
+    font-weight: 400;
+    background-color: #615c5c;
+    padding: 0px;
+    margin: 7px;
+}
+.panel2 {
+    padding: 15px;
+    box-shadow: 1px 12px 13px grey;
+    margin-bottom: 29px;
+    border-radius: 0px 7px;
+    border-left: 20px solid #696666;
+    border-right: 23px solid transparent;
+    border-top: 12px solid transparent;
+}
+.panel {border: 2px solid #FF006C;}
+/*hr {
+    margin-top: 0px;
+    margin-bottom: 15px;
+    border: 0;
+    border-top: 2px solid #e60a0a;
+    margin-left: 25%;
+    margin-right: 25%;
+}*/
+/*   .button2{    background-color: #499828;border-radius: 50%;
+} 
+*/
+.well-sm {
+    
+    margin-bottom: -4px;
+    border-radius: 0px 7px;
+    font-weight: 600;
+        color: black;
+}
+a {
+    color:#0f0f0f;
+    /* text-decoration: underline; */
+    text-decoration: none;
+}
+.btn-info{
+      color: #fff;
+    background-color: #897117;
+    border-color: #6d736d;
+    box-shadow: 2px 3px #88888878;
+}
+.btn-success {
+   color: #fff;
+    background-color: #897117;
+    border-color: #6d736d;
+    box-shadow: 2px 3px #88888878;
+  }
+
+ .col12 {
+    background: #8e7061;
+       padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+hr{ margin-top: 0px;margin-bottom: 15px;border: 0;border-top: 2px solid #e60a0a;margin-left: 25%;margin-right: 25%;
+}
+ 
+
+.dropdown-menu {
+
+    background: #ff0ad6;   
+     position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 160px;
+    padding: 5px 0;
+    margin: 2px 0 0;
+    font-size: 14px;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+    /* border: 1px solid #ccc; */
+    /* border: 1px solid rgba(0,0,0,.15); */
+    /* border-radius: 4px; */
+    /* -webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175); */
+    /* box-shadow: 0 6px 12px rgba(0,0,0,.175); */
+}
+.s {
+text-shadow: 2px 0 0px #800040, 3px 2px 0px rgba(77,0,38,0.5), 3px 0 3px #FF002B, 5px 0 3px #800015, 6px 2px 3px rgba(77,0,13,0.5), 6px 0 9px #FF5500, 8px 0 9px #802A00, 9px 2px 9px rgba(77,25,0,0.5), 9px 0 18px #FFD500, 11px 0 18px #806A00, 12px 2px 18px rgba(77,66,0,0.5), 12px 0 30px #D4FF00, 14px 0 30px #6A8000, 15px 2px 30px rgba(64,77,0,0.5), 15px 0 45px #80FF00, 17px 0 45px #408000, 17px 2px 45px rgba(38,77,0,0.5);
+color: #f0f3ea;
+    font-size: 23px;
+}
+.blinking{
+     animation:blinkingText 4.8s infinite;
+}
+@keyframes blinkingText{
+    0% { color: red; }
+    10% { color: yellow; }
+    20% { color: blue; }
+    40% { color: green; }
+    50% { color: pink; }
+    60% { color: orange; }
+    80% { color: black; }
+    100% { color: brown; }
+  }
+
+.navbar-nav>li>a {
+    padding-top: 0px;
+    padding-bottom: 12px;
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+.form-control {    font-family: Montserrat-Bold;
+    font-size: 15px;
+    line-height: 1.2;
+    color: #333;
+    display: block;
+    width: 100%;
+    background: #fff;
+    height: 35px;
+    border-radius: 25px;
+    padding: 0 30px 0 53px;
+    margin-bottom: 9px;
+
+}
+.home-game-name{
+  font-size: 24px;
+    font-family: serif;
+  text-transform: uppercase;
+    font-weight: 600;
+    color: #ffef29;
+}
+
+
+ul.breadcrumb {
+    display: none;
+}
+
+.card1 a {
+    text-decoration: none;
+}
+.a-no-underline {
+    text-decoration: none;
+}
+.h6, h6 {
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+.white { color:#000; }
+.black { color:#000; }
+footer {
+    margin: 50px 0;
+}
+.logo {
+	padding-top:27px;
+	color: #fff !important;
+}
+.navbar {
+	background:none;
+}
+.navbar-nav a { color:#fff !important; margin-top:12px; }
+.error { color:#ff0000; font-size:11px; font-weight:normal; }
+.dropdown-menu { background:#f1f1f1; }
+.dropdown-menu li a { color:#000 !important; padding:5px; margin-top:0; }
+.dashboard-box {
+    margin-bottom: 24px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.dashbozrd-box-inner {
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.08), 0 2px 4px 0 rgba(0,0,0,.12);
+    border-radius: 4px;
+    background: #fff;
+}
+.legend {
+    display: block;
+    text-align: left;
+    border-bottom: solid 1px #ddd;
+    color: #444;
+    font-weight: 400;
+    line-height: 1.583em;
+    padding-bottom: .75em;
+    margin-bottom: 1.5em;
+    font-size: 1.33em;
+}
+
+.checkbox-container {
+  /*display: block;*/
+  position: relative;
+  padding-left: 18px;
+  /*margin-bottom: 12px;*/
+  cursor: pointer;
+  font-size: 12px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.checkbox-container input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+
+/* Create a custom checkbox */
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 0px;
+  width: 0px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.checkbox-container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.checkbox-container input:checked ~ .checkmark {
+  background-color: #2196F3;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+
+/* Show the checkmark when checked */
+.checkbox-container input:checked ~ .checkmark:after {
+  display: block;
+}
+
+/* Style the checkmark/indicator */
+.checkbox-container .checkmark:after {
+  left: 9px;
+  top: 5px;
+  width: 5px;
+  height: 6px;
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.results h1, h2, h3, h4, h5{
+        color: #fff;
+  
+    font-size: 19px;
+}
+
+.chart-table h1, .chart-table h2,.chart-table h3,.chart-table h4,.chart-table h5 { 
+    color: #280098;
+    font-size: 19px;
+}
+.no-pad{padding:2px;}
+.h1, .h2, .h3, h1, h2, h3{
+    margin-top: 5px;
+
+margin-bottom: 5px;
+}
+
+.panel-chart p {
+    color: #0c00c3;
+    font-size: 19px;
+}
+
+.panel-chart h1, h2 {
+        color: black;
+        font-weight: 600;
+    font-size: 25px;
+}
+
+.heading-h3{
+  text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px #b3a7a7;
+    font-size: 24px;
+    color: #fcfcfc;
+font-family: serif;
+text-transform: uppercase;
+}
+.panel-success > .panel-heading{border-color: #FF006C !important;}
+/*.panel-success {
+    border:2px solid #008a00;
+}*/
+.panel-success .panel-heading,.panel-success .panel-footer {
+	background:  #FFD700;
+	color: #000;
+	padding: 0px;
+	font-weight: 700;
+/*border-radius: 20%;*/
+
+}
+
+.forum-post-footer1{background: #FFD700;}
+.forum-post-footer2{background: #DCBB00;}
+.panel {
+  
+    background: none;
+    }
+    
+.panel-info > .panel-heading {
+color: #31708f;
+background-color: #d9edf700;
+border-color:#FF006C;
+}
+
+.headingBck {
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    box-shadow: 0 0 20px #86757a;
+    border-radius: 16%;
+    margin: 0px;
+    padding: 0%;
+}
+.no-padding {
+    padding: 15px 7px ;
+}
+.navbar-default {
+    border: 2px solid #FF006C;
+}
+
+.panel {
+    margin-bottom: 20px;
+    /*border-radius: 0px;*/
+    -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+        background: none;
+}
+
+/* panel info */
+.panel-info {
+    border:2px solid #FF006C;
+}
+.panel-heading {
+	/*border-radius:0 !important;*/
+}
+.panel-info .panel-heading {
+	
+	color: #fff;
+}
+
+/* panel danger */
+.panel-danger {
+    border: 3px solid #bd904d;
+}
+
+.refresh-button {
+	position: absolute;
+    transition: opacity .6s ease-in-out;
+    z-index: 999;
+    right: 20px;
+    bottom: 20px;
+}
+
+.like_unlike {
+	cursor: pointer !important;
+}
+.bg-grey {
+	background: #e1e1e1 !important;
+}
+
+
+.form-href{color:black;}
+
+.forum-btn-b1{
+background-color:#f1f1f1;
+border-radius: 0px !important;
+color:#000;
+text-decoration: none;
+padding: 4px 4px !important;
+min-width: 108px;
+}
+
+.forum-special-offer{
+background: #dd984f;
+border: 2px solid #e0009e;
+color:white;
+font-weight: 600;
+font-style: italic;
+}
+
+.small-text-h5{font-size: 16px;}
+
+@media (max-width: 768px)
+{
+    .small-text-h5{font-size: 12px;}
+    
+    .alert-info2 {
+    color: #31708f;
+    padding: 0px;
+    border-bottom: 2px solid #615c5c;
+    }
+    .form-post-top{
+        font-size:12px;
+    }
+    .panel-chart p {
+    color: #0c00c3;
+    font-size: 12px;
+    }
+    
+    .col-sm-12, .col-md-12, .col-xs-12 {
+        padding-right: 1px;
+        padding-left: 1px;
+    }
+
+}
+
+
+/* mobile media */
+    
+    @media (max-width: 767px){
+        .nav.nav-pills.nav-justified {
+    min-width: 118px;
+    display: flex;
+}
+    .btn-info {
+    color: #fff;
+    background-color: #897117;
+    border-color: #6d736d;
+    box-shadow: 2px 3px #88888878;
+    width: 100%;
+    margin-top: 10px;
+}
+input#btnSubmit {
+    width: 100%;
+}
+.dropdown-menu li a { color:#f1eeee !important; padding:5px; margin-top:0; }
+        
+    }
+    
+    .welcome h3 {
+    text-align: center !important;
+    font-size: 25px;
+    color: red;
+}

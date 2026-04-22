@@ -1,0 +1,56 @@
+body {
+	background-color: black;
+	font-size : 30px;
+color: silver;
+}
+.headline {font-family: Verdana,Sans-serif;font-weight: bold;color: #000000;background-color: #F8F8F8;font-size: 11px;} /*headline row, the first row that says forum name, topics, posts and such*/
+.headline td {
+	background: #274F76;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+.headline td a {
+	color: #CCFF66;
+}
+.maintable,.regrow {
+	width: 95%;
+	padding: 0px;
+	background: #CCCCCC;
+	border: 1px solid #336699;
+} /*main table for forum*/
+.maintable td {
+	background: #FFFFCC;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 10px;
+	font-size: 30px;
+	color: #003333;
+}
+.AAJKYA { background-color: yellow; color: red; font-weight: bold; font-style: italic; font-size: large; }
+.ALOO { background-color: #87f717; color: blue; border-width: 4px; border-color: red; border-style: dashed; margin-top: 2px; margin-bottom: 8px; margin-left: 2px; margin-right: 2px; padding-top: 5px; padding-bottom: 5px; padding-left: 2px; padding-right: 2px; font-weight: bold; font-size: large; font-style: italic; text-decoration: blink; }
+.ALOO1 { background-color: black; color: white; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.ALOO1 a { color:  yellow; }
+.ALOO2 { background-color: #ff3300; color: black; font-size: large; border-width: 5px; border-color: #000099; border-style: groove; font-weight: bold; margin-top: 10px; margin-bottom: 10px; font-style: italic; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; }
+.aloo3 { background-color: white; color: red; font-size: large; border-width: 5px; border-color: #ff00ff; border-style: groove; font-weight: bold; margin-top: 10px; margin-bottom: 10px; font-style: italic; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; }
+.aloo3 a { color:  black; }
+.chart { background-color: white; color: red; font-size: large; border-width: 5px; border-color: #00cc00; border-style: groove; font-weight: bold; margin-top: 10px; margin-bottom: 10px; font-style: italic; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; }
+.date { background-color: white; color: black; border-width: 10px; border-color: #ff3300; border-style: double; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.dateresult { background-color: White; color: Blue; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.forum { background-color: #000000; color: #ffffff; border-width: 10px; border-color: #ff3300; border-style: double; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.forum a { color:  #ff6633; }
+.HEADER { background-color:  Black; color:  WHITE; border-width: 4px; border-color: White; border-style: double; margin-top: 3px; margin-bottom: 3px; margin-left: 3px; margin-right: 3px; padding-top: 3px; padding-bottom: 3px; padding-left: 3px; padding-right: 3px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.HEADER a { color:  Red; }
+.lalresult { background-color: White; color: Red; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.otoc { background-color: #000000; color: #ffffff; border-width: 10px; border-color: #ff3300; border-style: double; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.pink { background-color: pink; color: black; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.resultside { background-color:  #FFFFCC; color:  BLACK; border-width: 5px; border-color: BLUE; border-style: ridge; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.resultside a { color:  RED; }
+.result { background-color: White; color: Black; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.TOP { background-color: red; color: white; border-width: 2px; border-color: blue; border-style: inset; margin-top: 0; margin-bottom: 0; margin-left: 2px; margin-right: 2px; padding-top: 0; font-weight: bold; font-style: italic; font-size: large; font-color: white; text-decoration: blink; }
+.UPARRESULT { background-color:  Red; border-width: 5px; border-color: Blue; border-style: ridge; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.weekly { background-color: #000000; color: #ffffff; border-width: 10px; border-color: #ff3300; border-style: double; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }
+.weekly a { color:  #ffffff; }
+.aarav { background-color: #000000; color: #ffffff; border-width: 10px; border-color: #ff3300; border-style: double; margin-top: 5px; margin-bottom: 5px; margin-left: 5px; margin-right: 5px; padding-top: 5px; padding-bottom: 5px; padding-left: 5px; padding-right: 5px; font-weight: bold; font-style: italic; font-size: large; text-decoration: blink; }

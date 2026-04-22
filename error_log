@@ -1,0 +1,60 @@
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/cycle-motor-patti.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 458
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file_get_contents(txtdb/golden-ank.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 473
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/xzavierJoaquinosia.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 481
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 483
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file_get_contents(txtdb/live-result-ad.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 16
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/free-game.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 62
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/other-free-game.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 107
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 109
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/xzavierJoaquinosia.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 175
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  natsort() expects parameter 1 to be array, boolean given in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 176
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 177
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file_get_contents(txtdb/update-notice.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 662
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  fopen(txtdb/xzavierJoaquinosia.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 818
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/xzavierJoaquinosia.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 819
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 820
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/main_original_sl.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/main_star_line_original.php on line 14
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/mr_star_line_results.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/mumbai_rajashri_star_line.php on line 15
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/main_bombay_36_results.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/main_bombay_36_merket.php on line 21
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1035
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1074
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1093
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/weekly.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1184
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/free-game.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1189
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/other-free-game.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1280
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1281
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file_get_contents(txtdb/update-trick.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1296
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/num_kalyan.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1305
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1309
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  file(txtdb/num_main_bazar.txt): failed to open stream: No such file or directory in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1345
+[21-Apr-2026 22:36:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/index.php on line 1349
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 654
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 658
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 546
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 550
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 385
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 389
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 492
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 496
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 1302
+[21-Apr-2026 22:39:48 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 1306
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 654
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 658
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 546
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 550
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 385
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 389
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 492
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 496
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 1302
+[21-Apr-2026 22:39:57 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 1306
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 654
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 658
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 546
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 550
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 385
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 389
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 492
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 496
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 1302
+[21-Apr-2026 22:41:21 Asia/Kolkata] PHP Warning:  strpos(): Empty needle in /home/matkaresul/public_html/asim_work/sattamatkadpbosss.mobi/live.php on line 1306

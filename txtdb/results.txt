@@ -1,0 +1,109 @@
+
+15|1|MILAN MORNING|150-67-458|2020-09-28|mon,tue,wed,thu,fri,sat,sun|7|10:15|am|34|15|11:15|am|44|15||1|0|
+
+16|24|MADHURI|240-6|2020-09-28|mon,tue,wed,thu,fri,sat,sun|7|11:45|am|40|10|12:45|pm|58|10||1|0|
+
+15|2|TIME BAZAR|130-40-299|2020-09-27|mon,tue,wed,thu,fri,sat,sun|7|01:10|pm|30|10|03:15|pm|30|10||1|0|
+90|78|TARA MUMBAI DAY|160-79-234|2020-09-26|mon,tue,wed,thu,fri,sat|6|01:30|pm|22|10|03:00|pm|12|10||1|0|
+15|3|MILAN DAY|780-58-369|2020-09-27|mon,tue,wed,thu,fri,sat,sun|7|02:15|pm|30|10|04:15|pm|30|10||1|0|
+
+15|4|RAJDHANI DAY|170-85-780|2020-09-26|mon,tue,wed,thu,fri,sat|6|03:32|pm|15|10|05:32|pm|15|10||1|0|
+
+
+
+30|43|DUBAI DAY|366-51-128|2020-09-27|mon,tue,wed,thu,fri,sat|6|04:00|pm|33|10|06:00|pm|27|10||1|0|
+
+-1|5|KALYAN|468-84-149|2020-09-26|mon,tue,wed,thu,fri,sat|6|04:15|pm|59|10|06:15|pm|59|10|yellow-bg|1|0|
+
+1|38|MADHURI NIGHT|129-22-129|2020-09-27|mon,tue,wed,thu,fri,sat,sun|7|06:45|pm|40|08|07:45|pm|44|06||1|0|
+30|84|TARA MUMBAI NIGHT|168-54-338|2020-09-25|mon,tue,wed,thu,fri|5|08:30|pm|14|02|10:30|pm|13|03||1|0|
+897|28|NIGHT TIME BAZAR|800-89-379|2020-09-26|mon,tue,wed,thu,fri,sat|6|08:30|pm|25|10|10:30|pm|30|10||1|0|
+
+
+
+15|6|MILAN NIGHT|345-28-279|2020-09-26|mon,tue,wed,thu,fri,sat|6|09:05|pm|18|10|11:15|pm|30|10||1|0|
+
+3|7|RAJDHANI NIGHT|167-42-156|2020-09-25|mon,tue,wed,thu,fri|5|09:30|pm|30|10|11:45|pm|50|11||1|0|
+10|60|MAIN MUMBAI|368-74-338|2020-09-25|mon,tue,wed,thu,fri|5|09:35|pm|45|09|12:05|am|0|45|yellow-bg|1|1|
+2|8|MAIN RATAN|349-67-368|2020-09-25|mon,tue,wed,thu,fri|5|09:35|pm|40|10|12:05|am|35|10|bg-color|1|1|
+
+896|33|DUBAI NIGHT|170-86-169|2020-09-27|mon,tue,wed,thu,fri,sat,sun|7|08:45|pm|10|10|10:45|pm|29|10||1|0|
+50|53|SAI BALAJI NIGHT|120-32-147|2020-09-25|mon,tue,wed,thu,fri|5|09:35|pm|30|07|12:05|am|30|08||1|1|
+1|9|KALYAN NIGHT|150-63-490|2020-09-25|mon,tue,wed,thu,fri|5|09:50|pm|59|10|12:10|am|59|20|yellow-bg|1|1|
+
+
+
+
+
+
+
+
+
+100|66|MADHUR DAY|125-87-179|2020-09-27|mon,tue,wed,thu,fri,sat,sun|7|01:15|pm|25|10|02:15|am|25|10||1|0|
+
+20|72|MADHUR NIGHT|158-45-357|2020-09-26|mon,tue,wed,thu,fri,sat|6|08:00|pm|25|10|10:00|pm|25|10||1|0|
+
+500|90|DHANLAXMI DAY|Loading...|2020-09-28|mon,tue,wed,thu,fri,sat,sun|7|01:45|pm|30|08|02:45|pm|30|07||1|0|
+
+510|96|DHANLAXMI NIGHT|Loading...|2020-09-28|mon,tue,wed,thu,fri,sat|6|08:45|pm|25|07|10:45|pm|25|07||1|0|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+900|102|SAI LAXMI|Loading..|2020-09-28|mon,tue,wed,thu,fri,sat,sun|7|04:10|pm|25|08|06:10|pm|25|08||1|0|
+
+
+900|108|MAIN SAI LAXMI|Loading..|2020-09-28|mon,tue,wed,thu,fri,sat,sun|7|09:45|pm|25|08|11:45|pm|26|08||1|0|
+
+
+
+
+19|19|GOLDEN SUPER DAY|Loading...|2020-09-28|mon,tue,wed,thu,fri,sat|6|03:30|pm|25|10|05:30|pm|25|10||1|0|
+
+
+
+
+999|20|GOLDEN SUPER NIGHT|Loading...|2020-09-28|mon,tue,wed,thu,fri|5|09:45|pm|25|10|11:45|pm|25|10||1|0|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,175 @@
+{
+   "games":[
+      {
+         "game_name":"MILAN MORNING",
+		 "start_time":"12:35 AM",
+         "time":"10:05 AM"
+      },
+	   {
+         "game_name":"KALYAN MORNING",
+		 "start_time":"12:30 AM",
+         "time":"10:50 AM"
+      },
+	  {
+         "game_name":"MILAN MORNING CLOSE",
+		 "start_time":"10:25 AM",
+         "time":"11:05 AM"
+      },
+	  {
+         "game_name":"KALYAN MORNING CLOSE",
+		 "start_time":"11:10 AM",
+         "time":"11:50 AM"
+      },
+	  {
+         "game_name":"SRIDEVI",
+		 "start_time":"09:00 AM",
+         "time":"11:25 AM"
+      },
+	  {
+         "game_name":"MADHURI",
+		 "start_time":"09:00 AM",
+         "time":"11:35 AM"
+      },
+	  {
+         "game_name":"SRIDEVI CLOSE",
+		 "start_time":"11:45 AM",
+         "time":"12:25 PM"
+      },
+	  {
+         "game_name":"MADHURI CLOSE",
+		 "start_time":"11:50 AM",
+         "time":"12:35 PM"
+      },
+	  {
+         "game_name":"TIME BAZAR",
+		 "start_time":"12:30 AM",
+         "time":"01:00 PM"
+      },
+	  {
+         "game_name":"KBC DAY",
+		 "start_time":"11:00 AM",
+         "time":"01:00 PM"
+      },
+	   {
+         "game_name":"TIME BAZAR CLOSE",
+		 "start_time":"01:15 PM",
+         "time":"02:00 PM"
+      },
+	  
+	   {
+         "game_name":"KBC DAY CLOSE",
+		 "start_time":"01:20 PM",
+         "time":"02:00 PM"
+      },
+	   {
+         "game_name":"MILAN DAY",
+		 "start_time":"12:30 AM",
+         "time":"03:10 PM"
+      },
+	  {
+         "game_name":"MAIN BAZAR DAY",
+		 "start_time":"11:00 AM",
+         "time":"03:20 PM"
+      },
+	   {
+         "game_name":"KALYAN",
+		 "start_time":"12:30 AM",
+         "time":"04:20 PM"
+      },
+	   {
+         "game_name":"MILAN DAY CLSOE",
+		 "start_time":"03:20 PM",
+         "time":"05:05 PM"
+      },
+	   {
+         "game_name":"MAIN BAZAR DAY CLOSE",
+		 "start_time":"03:40 PM",
+         "time":"05:25 PM"
+      },
+	   {
+         "game_name":"KALYAN CLOSE",
+		 "start_time":"04:43 PM",
+         "time":"06:30 PM"
+      },
+	   {
+         "game_name":"MADHURI NIGHT",
+		 "start_time":"06:15 PM",
+         "time":"06:40 PM"
+      },
+	   {
+         "game_name":"SRIDEVI NIGHT",
+		 "start_time":"06:20 PM",
+         "time":"07:05 PM"
+      },
+	  {
+         "game_name":"MADHURI NIGHT CLOSE",
+		 "start_time":"06:55 PM",
+         "time":"07:35 PM"
+      },
+	  {
+         "game_name":"SRIDEVI NIGHT CLOSE",
+		 "start_time":"07:25 PM",
+         "time":"08:05 PM"
+      },
+	   {
+         "game_name":"MADHUR NIGHT",
+		 "start_time":"06:30 PM",
+         "time":"08:30 PM"
+      },
+	    {
+         "game_name":"MILAN NIGHT",
+		 "start_time":"06:30 PM",
+         "time":"09:00 PM"
+      },
+	   {
+         "game_name":"KALYAN NIGHT",
+		 "start_time":"06:30 PM",
+         "time":"09:25 PM"
+      },
+	   {
+         "game_name":"RAJDHANI NIGHT",
+		 "start_time":"06:30 PM",
+         "time":"09:25 PM"
+      },
+	   {
+         "game_name":"MAIN BAZAR",
+		 "start_time":"06:30 PM",
+         "time":"09:35 PM"
+      },
+	   {
+         "game_name":"RATAN KHATRI",
+		 "start_time":"07:00 PM",
+         "time":"09:50 PM"
+      },
+	   {
+         "game_name":"MADHUR NIGHT CLOSE",
+		 "start_time":"09:00 PM",
+         "time":"10:35 PM"
+      },
+	   {
+         "game_name":"MILAN NIGHT CLOSE",
+		 "start_time":"09:15 PM",
+         "time":"11:05 PM"
+      },
+	   {
+         "game_name":"KALYAN NIGHT CLOSE",
+		 "start_time":"09:40 PM",
+         "time":"11:25 PM"
+      },
+	   {
+         "game_name":"RAJDHANI NIGHT CLOSE",
+		 "start_time":"09:40 PM",
+         "time":"11:35 PM"
+      },
+	   {
+         "game_name":"MAIN BAZAR CLOSE",
+		 "start_time":"09:45 PM",
+         "time":"11:55 PM"
+      },
+	  {
+         "game_name":"RATAN KHATRI CLOSE",
+		 "start_time":"10:15 PM",
+         "time":"11:55 PM"
+      }
+   ]
+}
