@@ -235,7 +235,8 @@ date_default_timezone_set('Asia/Kolkata');
       }
 
       body {
-        background-color: #fc9;
+        background-color: #000;
+        color: #fff;
         text-align: center;
         padding: 3px 10px;
         margin: 0;

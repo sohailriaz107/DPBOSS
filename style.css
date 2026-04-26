@@ -1,6 +1,6 @@
 body {
-	background-color: #fc9;
-	color: #000;
+	background-color: #000;
+	color: #fff;
 	font-weight: bold;
 	font-style: italic;
 	text-align: center !important;
@@ -14,8 +14,8 @@ a {
 
 
 .B {
-	background-color: #fc9;
-	color: #000;
+	background-color: #000;
+	color: #fff;
 	border-width: 3px;
 	border-color: #ff006c;
 	border-style: solid;
@@ -44,7 +44,7 @@ a {
 }
 
 .blue-div a {
-	color: #000;
+	color: #fff;
 	text-decoration: none !important;
 	font-size: 22px !important;
 	margin: 2px 0 !important;
@@ -232,7 +232,7 @@ tbody tr td {
 .B.hfsdjk p {
 	font-size: 13px;
 	margin-bottom: 0;
-	color: #000;
+	color: #fff;
 	opacity: 1
 }
 
@@ -337,8 +337,8 @@ span.btn-ftr1 {
 
 
 .B {
-	background-color: #fc9;
-	color: #000;
+	background-color: #000;
+	color: #fff;
 	border-width: 2px !important;
 	border-color: #aa00c0;
 	border-style: solid;
@@ -362,8 +362,8 @@ span.btn-ftr1 {
 }
 
 .B1 {
-	background-color: #fc9;
-	color: #000;
+	background-color: #000;
+	color: #fff;
 	margin-top: 1px;
 	margin-bottom: 1px;
 	font-weight: bold;
@@ -381,8 +381,8 @@ span.btn-ftr1 {
 }
 
 .paa8 .B1 {
-	background-color: #fc9;
-	color: #000;
+	background-color: #000;
+	color: #fff;
 	margin-top: 1px;
 	margin-bottom: 1px;
 	font-weight: bold;
@@ -586,7 +586,7 @@ span.btn-ftr1 {
 
 .dpboss {
 	background-color: transparent;
-	color: #000;
+	color: #fff;
 	font-size: 12px;
 	padding: 5px;
 	text-align: center;
@@ -683,7 +683,7 @@ marquee {
 
 .paa8 {
 	background-color: #ffcc99;
-	color: #000;
+	color: #fff;
 	font-size: 18px;
 	border-width: 2px;
 	border-style: solid;
@@ -709,7 +709,7 @@ marquee {
 
 .paa8 .aa {
 	display: block;
-	color: #000;
+	color: #fff;
 	font-size: 18px
 }
 
@@ -752,7 +752,7 @@ marquee {
 
 .paa8 .gg {
 	display: block;
-	color: #000;
+	color: #fff;
 	font-size: 32px;
 	font-family: inherit;
 	font-style: normal;
@@ -816,7 +816,7 @@ hr.a7 {
 	border: solid 3px #e91e63;
 	padding: 0;
 	font-size: 17px;
-	color: #000;
+	color: #fff;
 	font-weight: bold;
 	margin-bottom: 5px
 }
@@ -836,8 +836,8 @@ hr.a7 {
 }
 
 .date {
-	background-color: #fc9;
-	color: #000;
+	background-color: #000;
+	color: #fff;
 	font-weight: bold;
 	font-style: italic;
 	font-size: large;
@@ -909,7 +909,7 @@ hr.a7 {
 
 .conta a {
 	background-color: #FFC107;
-	color: #000;
+	color: #fff;
 	padding: 5px 8px 2px;
 	border-radius: 80px;
 	text-decoration: none !important;

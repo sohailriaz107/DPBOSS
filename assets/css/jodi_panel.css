@@ -1,0 +1,253 @@
+<script type="application/ld+json">
+	{
+		"@context": "http://schema.org",
+		"@type": "NewsArticle",
+		"mainEntityOfPage":"https://dpboss.boston",
+		"author": "dpboss.boston",
+		"headline": "Open-source framework for publishing content",
+		"datePublished": "2015-10-07T12:02:41Z",
+		"dateModified":"<?php echo date("Y-m-d");?>T12:02:041Z",
+		"image": [
+			"logo.jpg"
+		],
+		"publisher": {
+      "@type": "Organization",
+      "name": "DPBOSS",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://dpboss.boston/logo.png"
+      }
+    }
+	} 
+</script>
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+<style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+<?php $rel_path = (strpos($_SERVER['PHP_SELF'], 'record') !== false) ? '../' : ''; ?>
+<link rel="icon" type="image/png" href="<?php echo $rel_path; ?>favico/favicon.png">
+<link rel="shortcut icon" type="image/png" href="<?php echo $rel_path; ?>favico/favicon.png">
+
+<style amp-custom>
+html{scroll-behavior:smooth}
+body{background-color: #000; color: #fff; text-align: center; font-weight: 700; padding: 0; font-family: Helvetica,sans-serif;}
+
+/* Logo Styles */
+.logo {
+    background: #fc9;
+    padding: 0 10px;
+    display: block;
+    color: #fff8f8 ;
+    margin-bottom: 5px;
+    letter-spacing: 1px;
+    font-weight: 700;
+    border: 3px solid #ff0016;
+    border-radius: .75em;
+    transform-style: preserve-3d;
+    transition: transform 150ms cubic-bezier(0,0,.58,1),background 150ms cubic-bezier(0,0,.58,1);
+}
+.logo amp-img{width:220px;height:auto;padding:6px 0 0}
+.logo img { margin: 5px 0px; }
+@media screen and (max-width: 400px) { .logo img {height: 60px;width: auto;max-width: 100%;} }
+@media screen and (max-width: 300px) { .logo img {height: 40px;width: auto;max-width: 100%;} }
+
+/* General Styles */
+.button2 {
+    background-color: white;
+    color: #ff0000;
+    padding: 10px 30px;
+    font-size: 14px;
+    margin: 0px 0px 5px 0px;
+    border-left: gold solid 5px;
+    border-right: gold solid 5px;
+    border-top: gold solid 2px;
+    border-bottom: gold solid 2px;
+    font-weight: 800;
+    border-radius: 4px;
+    text-decoration: none;
+    text-shadow: 1px 1px gold;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,.2), 0 6px 8px 0 rgba(0,0,0,.19);
+    display: inline-block;
+    transition: all .3s;
+    
+}
+.ad-div11{text-align:center;margin:0 0 10px}
+
+/* Chart List Styles */
+.chart-list{border:2px solid #eb008b;margin-bottom:2px;width:50%;margin:0 auto 10px;text-align:center;font-weight:600}
+.chart-list.ab1{border-color:#003c6c}
+.chart-list h4{color:#fff;padding:5px 10px 3px;font-size:24px;border-top-left-radius:7px;margin:0}
+.chart-list.ab1 h4{background-color:#024c88}
+.chart-list a{display:block;font-size:22px;padding:5px 7px 4px;text-decoration:none}
+.chart-list a:hover{text-decoration:none}
+.chart-list.ab1 a{border-bottom:2px solid #024c88;color:#003c6c}
+.chart-list a:hover{background-color:#fff;text-decoration:underline}
+@media only screen and (max-width:500px){.chart-list{width:95%}}
+
+/* Footer Styles */
+footer{background-color:#fff;color:red;font-weight:bold;font-size:25px;text-decoration:none;border:4px groove purple;text-shadow:1px 1px gold;margin:3px}
+footer > div{border-bottom:2px solid #b2ddff;padding:10px 0;margin-bottom:10px}
+footer > div a{text-decoration:none}
+footer > div a:hover{text-decoration:none}
+footer .ftr-icon{text-decoration:none;font-size:35px;text-transform:uppercase;color:#007bff}
+footer p{margin:10px 0 10px;line-height:35px}
+footer p span{color:rgb(51,102,255)}
+
+/* Panel and Table Styles */
+.panel.panel-info{border:1px solid #3f51b5; margin: 15px auto 0 !important;}
+.panel-heading h1{margin:0;padding:5px}
+h1{color: #fff8f8;}
+h3{font-size: 16px;color:#fff; text-shadow: 0px 0px;margin: 0px;padding: 5px;}
+
+table { 
+    border-collapse: separate !important; 
+    border-spacing: 3px !important;
+    width: 100%; 
+    text-align: center; 
+    background-color: #fff; 
+    border: 5px groove #893bff; 
+}
+th, td { 
+    border: 1px solid #893bff; 
+    font-weight: 700;
+    font-style: italic;
+    font-size: large;
+    text-shadow: 1px 1px #ffd700;
+    font-family: Georgia, serif !important;
+    color: #000;
+}
+thead{background-color:#ffc107;text-shadow:1px 1px 2px #9a7400ab}
+tbody td{padding:5px 0; font-weight: 700;}
+
+/* Color helpers */
+.red, .r, .chart-11, .chart-22, .chart-33, .chart-44, .chart-55, .chart-66, .chart-77, .chart-88, .chart-99, .chart-00, .chat-05, .chat-50, .chat-16, .chat-61, .chat-27, .chat-72, .chat-38, .chat-83, .chat-49, .chat-94,
+.css-11, .css-16, .css-22, .css-27, .css-33, .css-38, .css-44, .css-49, .css-50, .css-55, .css-61, .css-66, .css-72, .css-83, .css-88, .css-94, .css-99, .css-05, .css-00, .css-77, .css-star {
+    color: red;
+}
+
+/* Specific logic to handle Jodi vs Panel layout differences */
+<?php if (strpos($_SERVER['PHP_SELF'], 'panel-chart-record') !== false): ?>
+    /* Panel Specific Styles */
+    .panel.panel-info{width:30%}
+    table { 
+        border: 5px groove #893bff; 
+        background-color: #fff;
+        border-collapse: collapse !important; 
+    }
+    th, td { 
+        border: none !important; 
+        font-weight: 700;
+        font-style: italic;
+        font-size: large;
+        text-shadow: 1px 1px #ffd700;
+        font-family: Georgia, serif !important;
+        color: #000;
+        padding: 0 !important;
+    }
+    tr { border-bottom: 1px solid #893bff !important; }
+    tbody td{font-family:"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}
+    
+    @media only screen and (max-width:770px){.panel.panel-info{width:95%}}
+    
+    tr td:nth-child(1){font-size:13px}
+    tbody tr td:nth-child(2),tbody tr td:nth-child(5),tbody tr td:nth-child(8),tbody tr td:nth-child(11),tbody tr td:nth-child(14),tbody tr td:nth-child(17),tbody tr td:nth-child(20),tbody tr td:nth-child(23){border-right-width:0px;font-size:13px}
+    tbody tr td:nth-child(3),tbody tr td:nth-child(6),tbody tr td:nth-child(9),tbody tr td:nth-child(12),tbody tr td:nth-child(15),tbody tr td:nth-child(18),tbody tr td:nth-child(21),tbody tr td:nth-child(24),tbody tr td:nth-child(27){border-left-width:0px;border-right-width:0px;font-size:23px}
+    tbody tr td:nth-child(4),tbody tr td:nth-child(7),tbody tr td:nth-child(10),tbody tr td:nth-child(13),tbody tr td:nth-child(16),tbody tr td:nth-child(19),tbody tr td:nth-child(22),tbody tr td:nth-child(25),tbody tr td:nth-child(28){border-left-width:0px;font-size:13px}
+    
+    @media only screen and (max-width:500px){
+        .panel.panel-info{width:99%}
+        tbody tr td:nth-child(3),tbody tr td:nth-child(6),tbody tr td:nth-child(9),tbody tr td:nth-child(12),tbody tr td:nth-child(15),tbody tr td:nth-child(18),tbody tr td:nth-child(21),tbody tr td:nth-child(24),tbody tr td:nth-child(27){font-size:14px}
+        tr td:nth-child(1),tbody tr td:nth-child(2),tbody tr td:nth-child(5),tbody tr td:nth-child(8),tbody tr td:nth-child(11),tbody tr td:nth-child(14),tbody tr td:nth-child(17),tbody tr td:nth-child(20),tbody tr td:nth-child(23),tbody tr td:nth-child(4),tbody tr td:nth-child(7),tbody tr td:nth-child(10),tbody tr td:nth-child(13),tbody tr td:nth-child(16),tbody tr td:nth-child(19),tbody tr td:nth-child(22),tbody tr td:nth-child(25),tbody tr td:nth-child(28){font-size:9px}
+        th{font-size:11px}
+    }
+    thead tr th:nth-child(1){width:100px}
+    @media only screen and (max-width:770px){
+        tr td:nth-child(1){font-size:9px}
+        tbody tr td:nth-child(3),tbody tr td:nth-child(6),tbody tr td:nth-child(9),tbody tr td:nth-child(12),tbody tr td:nth-child(15),tbody tr td:nth-child(18),tbody tr td:nth-child(21),tbody tr td:nth-child(24),tbody tr td:nth-child(27){border-left-width:0;border-right-width:0;font-size:16px}
+        tbody tr td:nth-child(4),tbody tr td:nth-child(7),tbody tr td:nth-child(10),tbody tr td:nth-child(13),tbody tr td:nth-child(16),tbody tr td:nth-child(19),tbody tr td:nth-child(22),tbody tr td:nth-child(25),tbody tr td:nth-child(28){border-left-width:0;font-size:11px}
+        tbody tr td:nth-child(2),tbody tr td:nth-child(5),tbody tr td:nth-child(8),tbody tr td:nth-child(11),tbody tr td:nth-child(14),tbody tr td:nth-child(17),tbody tr td:nth-child(20),tbody tr td:nth-child(23){border-right-width:0;font-size:11px}
+        thead tr th:nth-child(1){width:55px}
+        .panel.panel-info{width:99%}
+    }
+    
+    .nd td:nth-child(2), .nd td:nth-child(4), .nd td:nth-child(5), .nd td:nth-child(7), .nd td:nth-child(8), .nd td:nth-child(10), .nd td:nth-child(11), .nd td:nth-child(13), .nd td:nth-child(14), .nd td:nth-child(16), .nd td:nth-child(17), .nd td:nth-child(19), .nd td:nth-child(20), .nd td:nth-child(22), .nd td:nth-child(23), .nd td:nth-child(25), .nd td:nth-child(26), .nd td:nth-child(28), .nd td:nth-child(29) {
+      writing-mode: vertical-rl;
+      text-orientation: upright;
+    }
+    .newptn p { writing-mode: vertical-rl; text-orientation: upright; margin: 0px; }
+<?php else: ?>
+    /* Jodi Specific Styles */
+    .panel.panel-info{width:30%}
+    tbody td{font-size:24px}
+    @media only screen and (max-width:770px){.panel.panel-info{width:70%}} 
+    @media only screen and (max-width:500px){ .panel.panel-info{width:100%} }
+<?php endif; ?>
+
+/* Common components used in both but defined similarly */
+.mp-btn { position: fixed; bottom: 9px; left: 5px; padding: 5px 8px; font-size: 15px; border: 1px solid #fff; text-decoration: none; background-color: #039; color: #fff; }
+.para3 { background-color: #6d0c3e; color: #fff; text-shadow: 1px 2px 3px #000; padding: 3px 10px; border: 3px solid red; margin: 0 10px 5px 10px; line-height: 1.4; font-size: small; font-style: italic; box-shadow: 0 0 20px 0 rgb(0 0 0 / 40%); }
+.para3 h2 { color: #fff !important; text-shadow: 1px 2px 3px #000 !important; font-style: italic !important; font-size: 20px !important; font-weight: 800 !important; margin-bottom: 5px !important; }
+.para3 p { color: #fff !important; text-shadow: 1px 2px 3px #000 !important; font-style: italic !important; margin-top: 0 !important; }
+.chart-h1{ background-color: #6d0c3e; color: #fff; text-shadow: 1px 2px 3px #000; padding: 5px 10px; border: 3px solid red; display: block; letter-spacing: 1px; font-weight: 900; font-style: italic; transition: transform 150ms cubic-bezier(0,0,.58,1) , background 150ms cubic-bezier(0,0,.58,1); font-size: 25px; margin: 5px 10px 0 10px; }
+.chart-result { 
+    background-color: yellow !important;
+    border-width: 5px !important;
+    border-style: double !important;
+    border-color: firebrick !important;
+    text-align: center !important;
+    padding: 4px !important;
+    margin: 4px auto !important;
+    font-size: 11px !important;
+    width: 98% !important;
+    display: block !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    color: #000 !important;
+    text-shadow: none !important;
+    line-height: 1 !important;
+}
+.chart-result div { 
+    color: blue !important;
+    font-size: 25px !important;
+    font-weight: 700 !important;
+    font-style: italic !important;
+    text-shadow: 1px 1px #8BC34A !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif !important;
+    margin: 0 !important;
+}
+.chart-result span { 
+    font-weight: bold !important;
+    color: #000000 !important;
+    font-size: 23px !important;
+    letter-spacing: 1pt !important;
+    font-family: Georgia, serif !important;
+    margin: 0 !important;
+    margin-bottom: -4px !important;
+    text-shadow: none !important;
+    display: block !important;
+}
+.chart-result a { 
+    background: linear-gradient(0deg, rgba(195, 138, 34, 0.9898809865743172) 0%, rgba(253, 246, 45, 0.998284347918855) 100%) !important;
+    border: 1px solid #F7DC6F !important;
+    color: #000 !important;
+    padding: .5rem 1.5rem !important;
+    font-style: italic !important;
+    font-family: Georgia, serif !important;
+    border-radius: 1.5rem !important;
+    font-size: 1.4rem !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    margin: 0 !important;
+    
+    display: inline-block !important;
+    box-shadow: 0 0 15px #000 !important;
+    text-decoration: none !important;
+    text-shadow: none !important;
+}
+
+/* Footer SEO Content Styles */
+.footer-text-div { max-width: 100%; text-align: center; margin: 2px; border: 2px solid purple; background: white; padding: 10px; }
+.footer-text-div p { font-weight: 500; font-size: 12px; padding: 0px; margin: 0px; }
+.footer-text-div p.faq-title { font-weight: 600; }
+.small-heading, .faq-heading { font-weight: 600; color: red; text-shadow: 0px 0px 1px yellow; }
+
+</style>

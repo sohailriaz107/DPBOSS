@@ -11,7 +11,7 @@
 <link rel="canonical" href="https://dpboss.boston/jodi-chart-record/kalyan-morning.php">
 
 <meta name="robots" content="INDEX, FOLLOW, ARCHIVE" />
-<?php include_once('jodi_style_amp.php'); ?>
+<?php include_once('../assets/css/jodi_panel.css'); ?>
 </head>
 <body>
 

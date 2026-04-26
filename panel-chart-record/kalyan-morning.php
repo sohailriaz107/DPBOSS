@@ -9,7 +9,7 @@
 <meta name="description" content="Get the latest updates, live results, daily lucky numbers, and Satta Matka tips on this page with a complete Kalyan Morning Panel Matka Chart with old records.">
 <link rel="canonical" href="https://dpboss.boston/panel-chart-record/kalyan-morning.php"/>
 
-<?php include_once('panel_style_amp.php'); ?>
+<?php include_once('../assets/css/jodi_panel.css'); ?>
 </head>
 <body>
 
