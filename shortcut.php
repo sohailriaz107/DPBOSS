@@ -142,7 +142,7 @@ body {
     <a style="color: purple;" href="https://dpboss.boston/ever-green-tricks/satta-matka-tricks-zone.php" title="Satta matka tricks">100% Fix Jodi Tricks</a> |
     <a style="color: blue;" href="https://dpboss.boston/satta-matka-fix-game.php" title="SATTA MATKA">Date Fix Game</a>
   </div>
-  <a class="ftr-icon" href="https://dpboss.boston">dpboss.boston</a>
+  <a class="ftr-icon" href="https://dpboss.boston">sattamatkadpbosss.mobi</a>
   <p>
     All Rights Reseved®
     <br>

@@ -195,9 +195,9 @@ tbody td{padding:5px 0; font-weight: 700;}
     border-color: firebrick !important;
     text-align: center !important;
     padding: 4px !important;
-    margin: 4px auto !important;
+    margin: 4px 10px !important;
     font-size: 11px !important;
-    width: 98% !important;
+    width: auto !important;
     display: block !important;
     border-radius: 0 !important;
     box-shadow: none !important;

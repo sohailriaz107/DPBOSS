@@ -48,7 +48,7 @@ echo $lastPart = end($ipParts);
   </div>
 <?php  } ?>
   
-  <a class="ftr-icon" href="https://dpboss.boston">dpboss.boston</a>
+  <a class="ftr-icon" href="https://dpboss.boston">sattamatkadpbosss.mobi</a>
   <p>
     All Rights Reseved®
     <br>
